@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+</head>
+<body>
+    <h1>Luan Barreira</h1>
+    <section>
+        <h2>contato:</h2>
+        <strong>E-mail:</strong> lu@n.Barreira2.gmail.com.br <br>
+        <strong>telefone:</strong> + 55(63)92567-3849 <br>
+        <strong>Linkedin:</strong> strong> linkedin.com/in/fulanodetal <br>
+        <strong>GitHub:</strong> github.com/fulanodetal
+    </section>
+    <hr>
+    <article>
+        <p>olá, busco <em>oportunidades de estágio na área de desenvolvimento web</em> para 
+           aplicar e expandir meus conhecimentos técnicos e habilidades de programação.</p>
+        </article>
+        <section>
+            <h2>tecnologia web:</h2>
+            <ol>
+                <li>Linguagens: Html e CSS</li>
+                <li>Frameworks Front-End: React.js, Vue.js</li>
+                <li>Ferramenta de Controle de Versão: GitHub</li>
+                <li>Editores de texto: Visual Studio Code</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Idiomas</h2>
+            <ul>
+                <li>português (nativo)</li>
+                <li>Inglês (intermediário)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projeto:</h2>
+            <dl>
+                <dt>E-commerce website (projeto acadêmico)</dt>
+                    <dd>desenvolvimento completo de um site de
+                        comércio eletrônico utilizando HTML e css.
+                        Implementação de usuário e carrinho de
+                        compras.</dd>
+                        <dt>blog pessoal (projeto pessoal)</dt>
+                        <dd>criação de um blog estát</dd>
+            </dl>
+        </section>
+</body>
+</html>
