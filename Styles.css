@@ -1,0 +1,29 @@
+/* Estilo para o cabeçalho principal*/
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color:darkblue;
+}
+
+/* Estilo para os cabeçalhos de seção*/
+h2 {
+    font-size: 26px;
+    color: rgb(139, 9, 199);
+}
+
+/* Estilo para links */
+a {
+    color: rgb(19, 124, 138);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: darkred;
+}
+
+blockquote {
+    font-style: italic;
+    background-color: rgb(26, 15, 180);
+    border-left: 4px solid rgb(219, 29, 92);
+}
